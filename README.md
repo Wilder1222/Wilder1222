@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi — I'm Wilder 👋
 
-<!--
-**Wilder1222/Wilder1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full‑stack / AI engineer building delightful web experiences and learning tools.  
+I focus on product-first development, clean UX, and pragmatic engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Work
+A curated selection of projects — click to explore, each line highlights the value and tech.
+
+- [GeniusFlow-X](https://github.com/Wilder1222/GeniusFlow-X) — AI-powered intelligent flashcard app combining OpenAI content generation with an FSRS spaced‑repetition scheduler; multi‑platform web & mobile sync. (TypeScript · Next.js · React Native · Supabase) · ⭐ 1 · last update: 2026-01-06 · https://genius-flow-x.vercel.app
+- [Memark](https://github.com/Wilder1222/Memark) — Local, zero‑dependency, file‑based memory system for AI coding agents with layered long‑term/context/knowledge/log storage and IDE integrations (npx memark). (JavaScript) · last update: 2026-03-14
+- [Vibe Portfolio](https://github.com/Wilder1222/vibe-portfolio) — Personal portfolio site with immersive 3D WebGL hero, smooth scroll interactions and dark minimalist design. (Next.js · Three.js · GSAP · TypeScript) · private · last update: 2026-03-21
+- [cowork-startup](https://github.com/Wilder1222/cowork-startup) — Claude Code plugin that orchestrates a multi‑agent AI dev team to design, build, verify and deliver ready‑to‑run projects from a single sentence. (JavaScript) · private · last update: 2026-03-21
+
+---
+
+## Recent Writing & Demos
+- （可选：自动列出 / 手动添加你的博客文章、Demo 链接或演讲）
+
+---
+
+## Skills & Tools
+TypeScript · JavaScript · Next.js · React · React Native · Vercel · Supabase · WebGL · AI Integrations
+
+---
+
+## Contact
+- Email: your.email@example.com
+- Website: https://your-site.example.com
+- Twitter / X: @your_handle
+- LinkedIn: https://www.linkedin.com/in/your-profile
+
+---
+
+最后更新：2026-03-23

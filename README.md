@@ -16,11 +16,6 @@ A curated selection of projects — click to explore, each line highlights the v
 
 ---
 
-## Recent Writing & Demos
-- （可选：自动列出 / 手动添加你的博客文章、Demo 链接或演讲）
-
----
-
 ## Skills & Tools
 TypeScript · JavaScript · Next.js · React · React Native · Vercel · Supabase · WebGL · AI Integrations
 

@@ -22,10 +22,7 @@ TypeScript · JavaScript · Next.js · React · React Native · Vercel · Supaba
 ---
 
 ## Contact
-- Email: your.email@example.com
-- Website: https://your-site.example.com
-- Twitter / X: @your_handle
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: wangwilder1222@gmail.com
 
 ---
 
